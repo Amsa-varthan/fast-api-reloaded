@@ -1,0 +1,12 @@
+# Virtual Environment
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+# Although we aren't using a .env file yet, it's good practice
+# to ignore it so you don't commit secret keys.
+.env
+
+# IDE / Editor specific
+.vscode/
